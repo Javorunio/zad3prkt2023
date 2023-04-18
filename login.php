@@ -41,7 +41,7 @@
                 echo "Niepoprawne hasło lub login, spróbuj jeszcze raz.";
             }
         }
-        $polaczenie->close();
+        //$polaczenie->close();
     }
 ?>
 </div>
